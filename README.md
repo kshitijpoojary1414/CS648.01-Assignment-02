@@ -1,1 +1,1 @@
-# CS648.01-Assignment-02
+# CS 648-02 Assignment 2
